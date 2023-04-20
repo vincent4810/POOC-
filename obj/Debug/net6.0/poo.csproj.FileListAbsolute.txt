@@ -1,0 +1,15 @@
+/home/vincek2/Documents/Simplon/POO C#/poo/bin/Debug/net6.0/poo
+/home/vincek2/Documents/Simplon/POO C#/poo/bin/Debug/net6.0/poo.deps.json
+/home/vincek2/Documents/Simplon/POO C#/poo/bin/Debug/net6.0/poo.runtimeconfig.json
+/home/vincek2/Documents/Simplon/POO C#/poo/bin/Debug/net6.0/poo.dll
+/home/vincek2/Documents/Simplon/POO C#/poo/bin/Debug/net6.0/ref/poo.dll
+/home/vincek2/Documents/Simplon/POO C#/poo/bin/Debug/net6.0/poo.pdb
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/poo.csproj.AssemblyReference.cache
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/poo.AssemblyInfoInputs.cache
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/poo.AssemblyInfo.cs
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/poo.csproj.CoreCompileInputs.cache
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/poo.dll
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/ref/poo.dll
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/poo.pdb
+/home/vincek2/Documents/Simplon/POO C#/poo/obj/Debug/net6.0/poo.genruntimeconfig.cache
